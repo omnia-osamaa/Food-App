@@ -1,2 +1,2 @@
 # Food-App
-e meals to your doorstep. With a clean UI and smooth navigation, users can:  Explore a variety of restaurants &amp; cuisines  View detailed menus with images &amp; prices  Place and customize orders easily  Track deliveries in real time  🚀 Built for speed, simplicity, and a delicious user experience.
+"A modern and user-friendly food delivery app that allows users to explore a wide variety of restaurants, browse menus, place orders, and track deliveries in real time — all in one seamless experience."
